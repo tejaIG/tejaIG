@@ -1,4 +1,4 @@
-## Hi there 👋
+Current Commit streak: 0
 
 <!--
 **tejaIG/tejaIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
