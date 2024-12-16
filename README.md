@@ -2,7 +2,8 @@
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=light)
+
 <!--
 **tejaIG/tejaIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
