@@ -1,6 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejaIG&theme=gruvbox)](https://git.io/streak-stats)
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 <!--
 **tejaIG/tejaIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
