@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejaIG&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejaIG&theme=gruvbox)](https://git.io/streak-stats) 
 ![](https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg)
 
