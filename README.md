@@ -1,23 +1,25 @@
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejaIG&theme=gruvbox)](https://git.io/streak-stats) 
-![](https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg)
+# 👋 Hey, I'm Teja IG  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejaIG&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
+![Codeforces Stats](https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
-![tejaIG's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaIG&theme=tokyonight&hide_border=true)
+---
 
-<!--
-**tejaIG/tejaIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🔭 Currently working on **AI-driven robotics & data systems**  
+- 🌱 Learning about **data-driven architectures and IoT integrations**  
+- 👯 Open to collaborating on **open-source projects tailored for India**  
+- 💬 Ask me about **ROS2, IoT, or AI-based SaaS systems**  
+- 📫 Reach me at: **teja@furlove.in**  
+- ⚡ Fun fact: _“AGI is the new electricity.”_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Activity Highlights  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaIG&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaIG&theme=tokyonight&hide_border=true)
+
+---
+
+<sub>✨ _“Code, Think, Repeat.”_ ✨</sub>
