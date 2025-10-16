@@ -1,26 +1,24 @@
-Hi there, I'm Teja! <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Teja. That's the name. <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-Engineer, Builder, and part-time stand-up comedian (in my head).
+Engineer. Lone Wolf. Full-Time Grinder.
 
-I'm a code-wrangling, data-juggling engineer from Hyderabad, India, on a cosmic quest to build Kruthrima Sadharana Medhassu (AGI)... but the friendly, chai-loving version that won't go all Skynet on us. Probably.
+Another engineer on the grind from Hyderabad, locked in on building Kruthrima Sadharana Medhassu (AGI). Not the cringe kind, the based kind.
 
-Fueled by Hyderabadi biryani and a brain with way too many browser tabs open (some call it ADHD, I call it a 'feature, not a bug'), I build everything from robust backends to quirky little web apps. I also have a famously complicated love-hate relationship with JavaScript.
+Fueled by sheer willpower and Hyderabadi biryani. My brain has more forks than a GitHub repo, but the code still ships. It's called the sigma mindset. JavaScript? It exists. We don't talk about it.
 
-🚀 What I'm Up To
+🚀 The Grindset
 
-🔭   I’m currently working on Annadata.ai, an open-source project to help Indian farmers with data-driven insights.
+🌱   Learning? Bro, I'm downloading skills directly into the cerebellum. Still can't center a div though.
 
-🌱   I’m currently learning all things data-driven... and how to finally center a div on the first try.
+👯   Only collaborating on based OSS for Bharat. No cringe projects. Your idea better be 10x.
 
-👯   I’m looking to collaborate on Open Source Software tailored to solve Indian problems. Got a cool idea? Hit me up!
+🤔   Scheming the next big thing. If your PR includes !important, it's an automatic L.
 
-🤔   I’m looking for help with my next big project idea. Preferably one that doesn't involve !important.
+💬   Talk to me about Go, Python, or why Hyderabadi Biryani mogs every other dish. No small talk.
 
-💬   Ask me about OSS, Python, Go, or why Hyderabadi Biryani is the one true king of all dishes.
+📫   Reach me if you must: teja@furlove.in. My DMs are open for alpha-level discussions only.
 
-📫   How to reach me: teja@furlove.in or slide into my DMs.
-
-⚡   Fun fact: I built a Rickroll-as-a-Service API. You've been warned.
+⚡   Fun fact: I can Rickroll you via an API. Don't test me.
 
 📊 My Stats
 
