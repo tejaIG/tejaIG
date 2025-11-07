@@ -1,24 +1,24 @@
-Teja. That's the name. <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+Hi, I'm Teja 👋
 
-Engineer. Lone Wolf. Full-Time Grinder.
+I'm an engineer based in Hyderabad, India. I'm passionate about building new things and am currently focused on the challenges and possibilities of Artificial General Intelligence (AGI), or Kruthrima Sadharana Medhassu.
 
-Another engineer on the grind from Hyderabad, locked in on building Kruthrima Sadharana Medhassu (AGI). Not the cringe kind, the based kind.
+I'm a dedicated developer, fueled by a lot of curiosity (and Hyderabadi biryani!). I enjoy tackling complex problems, shipping code, and always learning. My preferred languages are Go and Python.
 
-Fueled by sheer willpower and Hyderabadi biryani. My brain has more forks than a GitHub repo, but the code still ships. It's called the sigma mindset. JavaScript? It exists. We don't talk about it.
+What I'm Working On
 
-🚀 The Grindset
+    🌱 I'm always learning and applying new skills. (Though I'll admit, centering a div can still be a challenge!)
 
-🌱   Learning? Bro, I'm downloading skills directly into the cerebellum. Still can't center a div though.
+    👯 I'm interested in collaborating on meaningful open-source projects, especially those that benefit India (Bharat).
 
-👯   Only collaborating on based OSS for Bharat. No cringe projects. Your idea better be 10x.
+    🤔 I'm currently exploring new ideas for my next project and believe strongly in writing clean, high-quality code.
 
-🤔   Scheming the next big thing. If your PR includes !important, it's an automatic L.
+Let's Connect
 
-💬   Talk to me about Go, Python, or why Hyderabadi Biryani mogs every other dish. No small talk.
+    💬 I'm always happy to discuss Go, Python, new technologies, or the finer points of Hyderabadi biryani.
 
-📫   Reach me if you must: teja@furlove.in. My DMs are open for alpha-level discussions only.
+    📫 You can reach me at: teja@furlove.in
 
-⚡   Fun fact: I can Rickroll you via an API. Don't test me.
+    ⚡ Fun fact: I enjoy building fun, quirky things with APIs.
 
 📊 My Stats
 
@@ -26,14 +26,6 @@ Fueled by sheer willpower and Hyderabadi biryani. My brain has more forks than a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/dark_card.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg">
-<img alt="Codeforces Stats" src="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/dark_card.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg"> <img alt="Codeforces Stats" src="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg"> </picture>
 
 </div>
-
-<!--
-tejaIG/tejaIG is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
