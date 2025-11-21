@@ -29,3 +29,4 @@ Let's Connect
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/dark_card.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg"> <img alt="Codeforces Stats" src="https://raw.githubusercontent.com/tejaIG/cf-stats/main/output/light_card.svg"> </picture>
 
 </div>
+
