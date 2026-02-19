@@ -19,7 +19,4 @@ Let's Connect
     📫 You can reach me at: teja@furlove.in
 
     ⚡ Fun fact: I enjoy building fun, quirky things with APIs.
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31kknipgkonp2azntxqe4nnxw7wy">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31kknipgkonp2azntxqe4nnxw7wy" alt="Data Card for Spotify">
-</a>
 
