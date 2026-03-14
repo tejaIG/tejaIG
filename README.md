@@ -6,7 +6,7 @@ I'm a dedicated developer, fueled by a lot of curiosity (and Hyderabadi biryani!
 
 What I'm Working On
 
-🌱 I'm always learning and applying new skills. (Though I'll admit, centering a div can still be a challenge!)
+🌱 I'm always learning and applying new skills.
 
 🔸 I'm interested in collaborating on meaningful open-source projects, especially those that benefit India (Bharat).
 
